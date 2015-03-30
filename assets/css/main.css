@@ -1,0 +1,28 @@
+body {
+	font-family: Helvetica, Garamond;
+	font-size: 14px;
+}
+
+.container {
+	margin: 50px auto;
+	max-width: 1000px;
+	width: 100%;
+}
+
+.results {
+	padding: 10px;
+	border: 1px solid black;
+}
+
+.result {
+	display: block;
+	padding: 5px;
+}
+
+.score {
+	font-size: 1.3em;
+}
+
+.title {
+	font-weight: bold;
+}

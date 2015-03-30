@@ -1,0 +1,24 @@
+{
+  "name": "cis197-angular",
+  "version": "0.0.0",
+  "description": "CIS 197 Angular homework assignment.",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt --no-color --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "pranavr",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-eslint": "^9.0.0",
+    "grunt-mocha-phantomjs": "^0.6.1"
+  }
+}
